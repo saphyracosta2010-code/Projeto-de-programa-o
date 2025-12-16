@@ -1,4 +1,6 @@
-# Projeto-de-catalogo = [{"livro": "O Pequeno Príncipe", "autor": "Antoine de Saint-Exupéry"},
+#Biblioteca virtual
+
+catalogo = [{"livro": "O Pequeno Príncipe", "autor": "Antoine de Saint-Exupéry"},
 {"livro": "Percy Jackson e os Olimpianos", "autor": "Rick Riordan"},
 {"livro": "Harry Potter e o Prisioneiro de Azkaban", "autor": "J. K. Rowling"},
 {"livro": "Sherlock Holmes e o Cão dos Baskerville", "autor": "Arthur Conan Doyle"},
